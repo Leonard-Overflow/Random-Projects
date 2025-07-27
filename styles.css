@@ -1,0 +1,17 @@
+#tableMor{
+    border: 2px black solid;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+#TableCell1{
+    border: 2px black solid;
+    width: 200px;
+    height: 180px;
+    font-size: 35px;
+    text-align: center;
+}
